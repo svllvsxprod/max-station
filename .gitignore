@@ -1,0 +1,14 @@
+/out/
+/.cache/
+.env
+.env.*
+*.apk
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+*.log
+*.pyc
+__pycache__/
+.DS_Store
