@@ -74,7 +74,12 @@
   <tr>
     <td align="center" colspan="2"><img src="docs/images/alarm-ringing.png" alt="Экран звонящего будильника" width="66%"><br><sub>Экран во время звонка</sub></td>
   </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/images/assistant-overlay-spotify.png" alt="Плавающая панель ChatGPT поверх Spotify: голосовое управление громкостью" width="100%"><br><sub>Плавающий ассистент поверх Spotify</sub></td>
+  </tr>
 </table>
+
+Удержание кнопки ассистента на пульте вызывает компактную панель поверх текущего приложения. На снимке — управление громкостью из Spotify, без перехода на главный экран ассистента.
 
 Снимки сделаны на колонке. Личный баланс на экране ассистента скрыт.
 
